@@ -11,7 +11,7 @@ import NotFoundPage from '../../pages/NotFoundPage/NotFoundPage';
 export default function App() {
   return (
     <div className={css.container}>
-      <h1>TravelTrucks</h1>
+      <h2>TravelTrucks</h2>
       <Navigation />
 
       <Routes>
